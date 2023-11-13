@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Portal
+  - Bullet
+  - HBullet
+  - JumpBoost
+  - HealthPack
+  - Enemy
+  - BigEnemy
   layers:
   - Default
   - TransparentFX
