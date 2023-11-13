@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Metroid.unity
+    guid: f80e4fa878e41d140bfc68720c6d50fd
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4565e668df233d449a91ab46b2f5ad29
   m_configObjects: {}
